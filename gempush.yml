@@ -1,0 +1,11 @@
+Contentview.swift
+
+Importswiftui
+
+Struct contentview:view { 
+Var body :some view {
+Text:"rooms"
+    }
+  }
+
+#if DEBUG
